@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mstfbiccer/heroku-example-11042018/issues"
   },
-  "homepage": "https://github.com/mstfbiccer/heroku-example-11042018#readme"
+  "homepage": "https://github.com/mstfbiccer/heroku-example-11042018#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
